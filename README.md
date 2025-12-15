@@ -28,8 +28,22 @@ Check it out here:
 
 ## 🛠️ Run Locally
 
-1. Make sure **Git** is installed.
-2. Clone the repository:
+Open `index.html` in your browser to view the site locally.
 
-```bash
-git clone https://github.com/chandioamna6-stack/amna-studio-book-hub.git
+---
+
+
+
+## ✨ Features
+
+- Modern dark-themed UI  
+- Responsive design for all devices  
+- Interactive buttons and smooth navigation  
+- Curated book collections and blog sections  
+
+---
+
+## 📫 Contact
+
+For questions or feedback, reach me on GitHub:  
+[Amna Chandio](https://github.com/chandioamna6-stack)
